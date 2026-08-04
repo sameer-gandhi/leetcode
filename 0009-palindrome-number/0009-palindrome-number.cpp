@@ -17,12 +17,11 @@ bool check(int x,int *temp){
         }
         int temp=x;
     bool result=check(x,&temp);
-    if(result){
-        return 1;
-    }
-    else{
-        return 0;
-    }
-    
+        if(result){
+            return 1;
+        }
+        else{
+            return 0;
+        }
     }
 };
