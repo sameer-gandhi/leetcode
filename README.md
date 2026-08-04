@@ -43,4 +43,8 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/sameer-gandhi/Leetcode/tree/master/3731-find-missing-elements) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/sameer-gandhi/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
