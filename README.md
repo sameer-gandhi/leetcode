@@ -41,10 +41,12 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0001-two-sum) |
 | [3731-find-missing-elements](https://github.com/sameer-gandhi/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0001-two-sum) |
 | [3731-find-missing-elements](https://github.com/sameer-gandhi/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
