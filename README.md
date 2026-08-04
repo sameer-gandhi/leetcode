@@ -12,17 +12,8 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 - Two Pointers
 - Sliding Window
 - Binary Search
-- Linked Lists
-- Stack & Queue
-- Trees
-- Binary Search Trees
-- Heap (Priority Queue)
-- Graphs
-- Dynamic Programming
-- Greedy
+- recursion
 - Backtracking
-- Trie
-- Bit Manipulation
 
 ## Goals
 - Solve 500+ LeetCode problems
