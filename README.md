@@ -35,6 +35,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0001-two-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sameer-gandhi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/sameer-gandhi/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sameer-gandhi/leetcode/tree/master/0283-move-zeroes) |
 | [3731-find-missing-elements](https://github.com/sameer-gandhi/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -56,4 +57,5 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sameer-gandhi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/sameer-gandhi/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sameer-gandhi/leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
