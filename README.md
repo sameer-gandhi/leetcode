@@ -37,6 +37,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0189-rotate-array](https://github.com/sameer-gandhi/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sameer-gandhi/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sameer-gandhi/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/sameer-gandhi/leetcode/tree/master/0485-max-consecutive-ones) |
 | [3731-find-missing-elements](https://github.com/sameer-gandhi/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
