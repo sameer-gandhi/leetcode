@@ -44,6 +44,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0283-move-zeroes](https://github.com/sameer-gandhi/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/sameer-gandhi/leetcode/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sameer-gandhi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/sameer-gandhi/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0189-rotate-array](https://github.com/sameer-gandhi/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sameer-gandhi/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sameer-gandhi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,4 +114,8 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | ------- |
 | [0053-maximum-subarray](https://github.com/sameer-gandhi/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameer-gandhi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/sameer-gandhi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
