@@ -35,6 +35,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0001-two-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sameer-gandhi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sameer-gandhi/leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/sameer-gandhi/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sameer-gandhi/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sameer-gandhi/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameer-gandhi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -72,6 +73,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | ------- |
 | [0007-reverse-integer](https://github.com/sameer-gandhi/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sameer-gandhi/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/sameer-gandhi/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sameer-gandhi/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sameer-gandhi/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -132,4 +134,8 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sameer-gandhi/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sameer-gandhi/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
