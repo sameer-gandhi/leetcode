@@ -7,11 +7,11 @@ public:
         int mn=INT_MAX;
         while(low<=high){
             int mid=low+(high-low)/2;
-            if(nums[low]<=nums[high]){
-                return min(mn,nums[low]);
-            }
+            // if(nums[low]<=nums[high]){
+            //     return min(mn,nums[low]);
+            // }
             if(nums[low]<=nums[mid]){
-                mn=min(mn,nums[mid]);
+                mn=min(mn,nums[low]);
                 low=mid+1;
             }
             else{
