@@ -69,6 +69,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [1539-kth-missing-positive-number](https://github.com/sameer-gandhi/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sameer-gandhi/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sameer-gandhi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/sameer-gandhi/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sameer-gandhi/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sameer-gandhi/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -135,6 +136,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sameer-gandhi/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sameer-gandhi/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sameer-gandhi/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/sameer-gandhi/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Bit Manipulation
 |  |
 | ------- |
