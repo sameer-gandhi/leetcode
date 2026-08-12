@@ -53,6 +53,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0162-find-peak-element](https://github.com/sameer-gandhi/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sameer-gandhi/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sameer-gandhi/leetcode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sameer-gandhi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/sameer-gandhi/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sameer-gandhi/leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -87,6 +88,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | ------- |
 | [0075-sort-colors](https://github.com/sameer-gandhi/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sameer-gandhi/leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sameer-gandhi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/sameer-gandhi/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sameer-gandhi/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -152,6 +154,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0004-median-of-two-sorted-arrays](https://github.com/sameer-gandhi/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sameer-gandhi/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sameer-gandhi/leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sameer-gandhi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -195,4 +198,12 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0410-split-array-largest-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sameer-gandhi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sameer-gandhi/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
