@@ -1,17 +1,17 @@
 class Solution {
-    int find(vector<int> &weights,int capacity){
+    bool possible(vector<int> &weights,int capacity,int days){
         long long load=0;
-        int days=1;
+        int cntdays=1;
         for(int i=0;i<weights.size();i++){
             if(load+weights[i]>capacity){
-                days++;
+                cntdays++;
                 load=weights[i];
             }
             else{
                 load+=weights[i];
             }
         }
-        return days;
+        return (cntdays<=days);
     }
 public:
     int shipWithinDays(vector<int>& weights, int days) {
@@ -24,8 +24,7 @@ public:
         long long high=sum;
         while(low<=high){
             int mid=low+(high-low)/2;
-            int reqday=find(weights,mid);
-            if(reqday<=days){
+            if(possible(weights,mid,days)){
                 high=mid-1;
             }
             else{
