@@ -1,5 +1,5 @@
 class Solution {
-    int make(vector<int> &bloomDay,int days,int k){
+    bool make(vector<int> &bloomDay,int days,int m,int k){
         int cnt=0;
         int noofbouquet=0;
         for(int i=0;i<bloomDay.size();i++){
@@ -12,7 +12,7 @@ class Solution {
             }
         }
         noofbouquet+=cnt/k;
-        return noofbouquet;
+        return (noofbouquet>=m);
     }
 public:
     int minDays(vector<int>& bloomDay, int m, int k) {
@@ -26,8 +26,7 @@ public:
         int high=mx;
         while(low<=high){
             int mid=low+(high-low)/2;
-            int bouquet=make(bloomDay,mid,k);
-            if(bouquet>=m){
+            if(make(bloomDay,mid,m,k)){
                 high=mid-1;
             }
             else{
