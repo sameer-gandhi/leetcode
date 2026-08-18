@@ -1,7 +1,7 @@
 class Solution {
-    int mxelement(vector<vector<int>> &mat,int n,int m,int col){
-        int idx=-1;
+    int findmx(vector<vector<int>> &mat,int n,int m,int col){
         int mx=INT_MIN;
+        int idx=-1;
         for(int i=0;i<n;i++){
             if(mat[i][col]>mx){
                 mx=mat[i][col];
@@ -18,15 +18,11 @@ public:
         int high=m-1;
         while(low<=high){
             int mid=low+(high-low)/2;
-            int row=mxelement(mat,n,m,mid);
+            int row=findmx(mat,n,m,mid);
             int left=-1;
             int right=-1;
-            if(mid-1>=0){
-                left=mat[row][mid-1];
-            }
-            if(mid+1<m){
-                right=mat[row][mid+1];
-            }
+            if(mid-1>=0) left=mat[row][mid-1];
+            if(mid+1<m) right=mat[row][mid+1];
             if(mat[row][mid]>left && mat[row][mid]>right){
                 return {row,mid};
             }
