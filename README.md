@@ -79,6 +79,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sameer-gandhi/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sameer-gandhi/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sameer-gandhi/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sameer-gandhi/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/sameer-gandhi/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sameer-gandhi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sameer-gandhi/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
