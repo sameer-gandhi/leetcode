@@ -125,6 +125,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0069-sqrtx](https://github.com/sameer-gandhi/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sameer-gandhi/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sameer-gandhi/leetcode/tree/master/0268-missing-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sameer-gandhi/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
