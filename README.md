@@ -135,6 +135,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0031-next-permutation](https://github.com/sameer-gandhi/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sameer-gandhi/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sameer-gandhi/leetcode/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/sameer-gandhi/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sameer-gandhi/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sameer-gandhi/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sameer-gandhi/leetcode/tree/master/0344-reverse-string) |
@@ -278,6 +279,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sameer-gandhi/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/sameer-gandhi/leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
