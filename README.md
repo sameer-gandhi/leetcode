@@ -34,6 +34,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | ------- |
 | [0001-two-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sameer-gandhi/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/sameer-gandhi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sameer-gandhi/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sameer-gandhi/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sameer-gandhi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -281,6 +282,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sameer-gandhi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sameer-gandhi/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/sameer-gandhi/leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0541-reverse-string-ii) |
@@ -294,4 +296,8 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sameer-gandhi/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
