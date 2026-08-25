@@ -125,6 +125,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0069-sqrtx](https://github.com/sameer-gandhi/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sameer-gandhi/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sameer-gandhi/leetcode/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/sameer-gandhi/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sameer-gandhi/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
@@ -244,6 +245,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/sameer-gandhi/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -283,6 +285,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0344-reverse-string](https://github.com/sameer-gandhi/leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0541-reverse-string-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/sameer-gandhi/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
