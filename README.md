@@ -94,6 +94,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0073-set-matrix-zeroes](https://github.com/sameer-gandhi/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sameer-gandhi/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sameer-gandhi/leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/sameer-gandhi/leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sameer-gandhi/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -284,6 +285,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sameer-gandhi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sameer-gandhi/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/sameer-gandhi/leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/sameer-gandhi/leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0541-reverse-string-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1021-remove-outermost-parentheses) |
