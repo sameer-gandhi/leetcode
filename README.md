@@ -300,15 +300,18 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0541-reverse-string-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/sameer-gandhi/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/sameer-gandhi/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
