@@ -34,6 +34,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | ------- |
 | [0001-two-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sameer-gandhi/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/sameer-gandhi/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sameer-gandhi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sameer-gandhi/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sameer-gandhi/leetcode/tree/master/0018-4sum) |
@@ -149,6 +150,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sameer-gandhi/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/sameer-gandhi/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sameer-gandhi/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sameer-gandhi/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sameer-gandhi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -269,6 +271,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sameer-gandhi/leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/sameer-gandhi/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameer-gandhi/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
