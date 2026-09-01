@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my LeetCode solutions implemented in **C++**. It serves as a record of my journey in mastering Data Structures and Algorithms (DSA) and preparing for software engineering interviews.
+This repository contains my LeetCode solutions implemented in **C++**. It serves as a record of my journey in mastering Data Structures and Algorithms (DSA) and preparing for software engineering.
 
 ## Language
 - C++
