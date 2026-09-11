@@ -165,6 +165,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sameer-gandhi/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sameer-gandhi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sameer-gandhi/leetcode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/sameer-gandhi/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sameer-gandhi/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sameer-gandhi/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/sameer-gandhi/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -381,6 +382,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sameer-gandhi/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sameer-gandhi/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/sameer-gandhi/leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sameer-gandhi/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sameer-gandhi/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
