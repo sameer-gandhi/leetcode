@@ -152,6 +152,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0069-sqrtx](https://github.com/sameer-gandhi/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sameer-gandhi/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sameer-gandhi/leetcode/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/sameer-gandhi/leetcode/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/sameer-gandhi/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2063-vowels-of-all-substrings](https://github.com/sameer-gandhi/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sameer-gandhi/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -399,4 +400,8 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/sameer-gandhi/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sameer-gandhi/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
