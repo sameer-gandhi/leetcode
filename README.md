@@ -75,6 +75,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0493-reverse-pairs](https://github.com/sameer-gandhi/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sameer-gandhi/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sameer-gandhi/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/sameer-gandhi/leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/sameer-gandhi/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -261,6 +262,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sameer-gandhi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
@@ -282,6 +284,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0073-set-matrix-zeroes](https://github.com/sameer-gandhi/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0566-reshape-the-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0867-transpose-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/sameer-gandhi/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Newton's Method
