@@ -19,20 +19,6 @@ public:
             }
             mxlen=max(len,mxlen);
             j++;
-            // bool check=false;
-            // for(auto el:mp){
-            //     if(el.second>1){
-            //         len--;
-            //         mp[s[i]]--;
-            //         i++;
-            //         check=true;
-            //         break;
-            //     }
-            // }
-            // if(!check){
-            //     mxlen=max(len,mxlen);
-            // }
-            //j++;
         }
         return mxlen;
     }
