@@ -30,7 +30,7 @@ public:
         }
         ListNode* mover=head;
         while(temp1!=nullptr && temp2!=nullptr){
-            if(temp1->val<temp2->val){
+            if(temp1->val<=temp2->val){
                 mover->next=new ListNode(temp1->val);
                 mover=mover->next;
                 temp1=temp1->next;
