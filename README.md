@@ -259,6 +259,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sameer-gandhi/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sameer-gandhi/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sameer-gandhi/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameer-gandhi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -352,6 +353,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0012-integer-to-roman](https://github.com/sameer-gandhi/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sameer-gandhi/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sameer-gandhi/leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/sameer-gandhi/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/sameer-gandhi/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sameer-gandhi/leetcode/tree/master/0205-isomorphic-strings) |
@@ -377,6 +379,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -427,4 +430,8 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sameer-gandhi/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
