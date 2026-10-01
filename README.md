@@ -160,6 +160,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0268-missing-number](https://github.com/sameer-gandhi/leetcode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/sameer-gandhi/leetcode/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/sameer-gandhi/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/sameer-gandhi/leetcode/tree/master/1922-count-good-numbers) |
 | [2063-vowels-of-all-substrings](https://github.com/sameer-gandhi/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sameer-gandhi/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sameer-gandhi/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -419,6 +420,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sameer-gandhi/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/sameer-gandhi/leetcode/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/sameer-gandhi/leetcode/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sameer-gandhi/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
