@@ -227,6 +227,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0078-subsets](https://github.com/sameer-gandhi/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sameer-gandhi/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sameer-gandhi/leetcode/tree/master/0268-missing-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sameer-gandhi/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Quicksort
 |  |
 | ------- |
@@ -374,6 +375,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [1903-largest-odd-number-in-string](https://github.com/sameer-gandhi/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2063-vowels-of-all-substrings](https://github.com/sameer-gandhi/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sameer-gandhi/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sameer-gandhi/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/sameer-gandhi/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -442,4 +444,5 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | ------- |
 | [0022-generate-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/sameer-gandhi/leetcode/tree/master/0078-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sameer-gandhi/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
