@@ -265,6 +265,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sameer-gandhi/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/sameer-gandhi/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sameer-gandhi/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameer-gandhi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -360,6 +361,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0014-longest-common-prefix](https://github.com/sameer-gandhi/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sameer-gandhi/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/sameer-gandhi/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sameer-gandhi/leetcode/tree/master/0205-isomorphic-strings) |
@@ -382,6 +384,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -389,6 +392,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | ------- |
 | [0020-valid-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
