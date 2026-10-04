@@ -272,6 +272,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameer-gandhi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sameer-gandhi/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/sameer-gandhi/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2063-vowels-of-all-substrings](https://github.com/sameer-gandhi/leetcode/tree/master/2063-vowels-of-all-substrings) |
 ## Simulation
 |  |
@@ -312,6 +313,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | ------- |
 | [0011-container-with-most-water](https://github.com/sameer-gandhi/leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/sameer-gandhi/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1903-largest-odd-number-in-string](https://github.com/sameer-gandhi/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameer-gandhi/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Heap (Priority Queue)
@@ -371,6 +373,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0451-sort-characters-by-frequency](https://github.com/sameer-gandhi/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sameer-gandhi/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0678-valid-parenthesis-string](https://github.com/sameer-gandhi/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/sameer-gandhi/leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -386,6 +389,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | ------- |
 | [0020-valid-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sameer-gandhi/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -394,6 +398,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0020-valid-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/sameer-gandhi/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
