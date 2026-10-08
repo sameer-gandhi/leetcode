@@ -378,6 +378,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0151-reverse-words-in-a-string](https://github.com/sameer-gandhi/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sameer-gandhi/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sameer-gandhi/leetcode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/sameer-gandhi/leetcode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sameer-gandhi/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0541-reverse-string-ii) |
@@ -473,9 +474,14 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0090-subsets-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sameer-gandhi/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sameer-gandhi/leetcode/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sameer-gandhi/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sameer-gandhi/leetcode/tree/master/0079-word-search) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
