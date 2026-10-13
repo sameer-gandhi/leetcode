@@ -170,6 +170,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0189-rotate-array](https://github.com/sameer-gandhi/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sameer-gandhi/leetcode/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/sameer-gandhi/leetcode/tree/master/0282-expression-add-operators) |
+| [0507-perfect-number](https://github.com/sameer-gandhi/leetcode/tree/master/0507-perfect-number) |
 | [0836-rectangle-overlap](https://github.com/sameer-gandhi/leetcode/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/sameer-gandhi/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/sameer-gandhi/leetcode/tree/master/1922-count-good-numbers) |
