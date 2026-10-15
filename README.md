@@ -20,7 +20,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 - Solve 500+ LeetCode problems
 - Strengthen problem-solving skills
 - Master Data Structures and Algorithms
-- Prepare for Software Engineering interviews at top tech companies
+- Prepare for Software Engineering interviews 
 
 ## LeetCode Profile
 🔗 https://leetcode.com/u/Sameer_Gandhi/
