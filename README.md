@@ -457,6 +457,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0023-merge-k-sorted-lists](https://github.com/sameer-gandhi/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/sameer-gandhi/leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sameer-gandhi/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/sameer-gandhi/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sameer-gandhi/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sameer-gandhi/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
