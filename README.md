@@ -165,6 +165,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sameer-gandhi/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sameer-gandhi/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sameer-gandhi/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sameer-gandhi/leetcode/tree/master/0012-integer-to-roman) |
@@ -455,6 +456,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sameer-gandhi/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sameer-gandhi/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sameer-gandhi/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/sameer-gandhi/leetcode/tree/master/0023-merge-k-sorted-lists) |
@@ -466,6 +468,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sameer-gandhi/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sameer-gandhi/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/sameer-gandhi/leetcode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/sameer-gandhi/leetcode/tree/master/1922-count-good-numbers) |
