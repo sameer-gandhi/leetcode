@@ -11,46 +11,36 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+        if(list1==nullptr && list2==nullptr){
+            return nullptr;
+        }
         if(list1==nullptr){
             return list2;
         }
         else if(list2==nullptr){
             return list1;
         }
-        ListNode* temp1=list1;
-        ListNode* temp2=list2;
-        ListNode* head;
-        if(temp1->val<temp2->val){
-            head=new ListNode(temp1->val);
-            temp1=temp1->next;
-        }
-        else{
-            head=new ListNode(temp2->val);
-            temp2=temp2->next;
-        }
-        ListNode* mover=head;
-        while(temp1!=nullptr && temp2!=nullptr){
-            if(temp1->val<=temp2->val){
-                mover->next=new ListNode(temp1->val);
-                mover=mover->next;
-                temp1=temp1->next;
+        ListNode* dummy=new ListNode(-1);
+        ListNode* mover=dummy;
+        while(list1!=nullptr && list2!=nullptr){
+            if(list1->val<=list2->val){
+                mover->next=list1;
+                list1=list1->next;
             }
             else{
-                mover->next=new ListNode(temp2->val);
-                mover=mover->next;
-                temp2=temp2->next;
+                mover->next=list2;
+                list2=list2->next;
             }
-        }
-        while(temp1!=nullptr){
-            mover->next=new ListNode(temp1->val);
             mover=mover->next;
-            temp1=temp1->next;
         }
-        while(temp2!=nullptr){
-            mover->next=new ListNode(temp2->val);
-            mover=mover->next;
-            temp2=temp2->next;
+        if(list1!=nullptr){
+            mover->next=list1;
         }
-        return head;
+        if(list2!=nullptr){
+            mover->next=list2;
+        }
+        ListNode* newhead=dummy->next;
+        delete(dummy);
+        return newhead;
     }
 };
