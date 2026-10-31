@@ -85,6 +85,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0540-single-element-in-a-sorted-array](https://github.com/sameer-gandhi/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sameer-gandhi/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sameer-gandhi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sameer-gandhi/leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/sameer-gandhi/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -165,6 +166,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0268-missing-number](https://github.com/sameer-gandhi/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sameer-gandhi/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sameer-gandhi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/sameer-gandhi/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sameer-gandhi/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -188,6 +190,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0268-missing-number](https://github.com/sameer-gandhi/leetcode/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/sameer-gandhi/leetcode/tree/master/0282-expression-add-operators) |
 | [0507-perfect-number](https://github.com/sameer-gandhi/leetcode/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sameer-gandhi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/sameer-gandhi/leetcode/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/sameer-gandhi/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/sameer-gandhi/leetcode/tree/master/1922-count-good-numbers) |
