@@ -87,6 +87,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0566-reshape-the-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sameer-gandhi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sameer-gandhi/leetcode/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/sameer-gandhi/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/sameer-gandhi/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/sameer-gandhi/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -232,6 +233,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0350-intersection-of-two-arrays-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0541-reverse-string-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sameer-gandhi/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/sameer-gandhi/leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/sameer-gandhi/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/sameer-gandhi/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -277,6 +279,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0136-single-number](https://github.com/sameer-gandhi/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sameer-gandhi/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sameer-gandhi/leetcode/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/sameer-gandhi/leetcode/tree/master/0832-flipping-an-image) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sameer-gandhi/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Quicksort
 |  |
@@ -330,6 +333,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | ------- |
 | [0054-spiral-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/sameer-gandhi/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sameer-gandhi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/sameer-gandhi/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -356,6 +360,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0079-word-search](https://github.com/sameer-gandhi/leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/sameer-gandhi/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0867-transpose-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/sameer-gandhi/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Newton's Method
