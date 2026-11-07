@@ -282,6 +282,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0231-power-of-two](https://github.com/sameer-gandhi/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sameer-gandhi/leetcode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/sameer-gandhi/leetcode/tree/master/0832-flipping-an-image) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/sameer-gandhi/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sameer-gandhi/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Quicksort
 |  |
