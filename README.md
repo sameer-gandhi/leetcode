@@ -15,6 +15,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 - recursion
 - Backtracking
 - LinkedList
+- Bit Manipulation
 
 ## Goals
 - Solve 500+ LeetCode problems
