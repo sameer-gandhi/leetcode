@@ -96,6 +96,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0912-sort-an-array](https://github.com/sameer-gandhi/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sameer-gandhi/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1267-count-servers-that-communicate](https://github.com/sameer-gandhi/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sameer-gandhi/leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sameer-gandhi/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sameer-gandhi/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -314,6 +315,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0169-majority-element](https://github.com/sameer-gandhi/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sameer-gandhi/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1267-count-servers-that-communicate](https://github.com/sameer-gandhi/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sameer-gandhi/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -347,6 +349,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sameer-gandhi/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/sameer-gandhi/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -368,6 +371,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0566-reshape-the-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/sameer-gandhi/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0867-transpose-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/sameer-gandhi/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1901-find-a-peak-element-ii](https://github.com/sameer-gandhi/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Newton's Method
 |  |
@@ -573,10 +577,12 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sameer-gandhi/leetcode/tree/master/0079-word-search) |
+| [1267-count-servers-that-communicate](https://github.com/sameer-gandhi/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1267-count-servers-that-communicate](https://github.com/sameer-gandhi/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Algorithm X
 |  |
 | ------- |
