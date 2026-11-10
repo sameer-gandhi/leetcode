@@ -204,6 +204,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0507-perfect-number](https://github.com/sameer-gandhi/leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sameer-gandhi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/sameer-gandhi/leetcode/tree/master/0836-rectangle-overlap) |
+| [1486-xor-operation-in-an-array](https://github.com/sameer-gandhi/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/sameer-gandhi/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/sameer-gandhi/leetcode/tree/master/1922-count-good-numbers) |
 | [2063-vowels-of-all-substrings](https://github.com/sameer-gandhi/leetcode/tree/master/2063-vowels-of-all-substrings) |
@@ -292,6 +293,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0260-single-number-iii](https://github.com/sameer-gandhi/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/sameer-gandhi/leetcode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/sameer-gandhi/leetcode/tree/master/0832-flipping-an-image) |
+| [1486-xor-operation-in-an-array](https://github.com/sameer-gandhi/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sameer-gandhi/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/sameer-gandhi/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Quicksort
