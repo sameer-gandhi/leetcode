@@ -92,6 +92,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0628-maximum-product-of-three-numbers](https://github.com/sameer-gandhi/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sameer-gandhi/leetcode/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/sameer-gandhi/leetcode/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/sameer-gandhi/leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/sameer-gandhi/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/sameer-gandhi/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -394,6 +395,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0410-split-array-largest-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sameer-gandhi/leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/sameer-gandhi/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/sameer-gandhi/leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sameer-gandhi/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/sameer-gandhi/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sameer-gandhi/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
