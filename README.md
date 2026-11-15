@@ -69,6 +69,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0118-pascals-triangle](https://github.com/sameer-gandhi/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameer-gandhi/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sameer-gandhi/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/sameer-gandhi/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sameer-gandhi/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/sameer-gandhi/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -402,6 +403,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | ------- |
 | [0011-container-with-most-water](https://github.com/sameer-gandhi/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/sameer-gandhi/leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/sameer-gandhi/leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sameer-gandhi/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sameer-gandhi/leetcode/tree/master/0455-assign-cookies) |
