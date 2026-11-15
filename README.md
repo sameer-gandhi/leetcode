@@ -51,6 +51,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0037-sudoku-solver](https://github.com/sameer-gandhi/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sameer-gandhi/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sameer-gandhi/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sameer-gandhi/leetcode/tree/master/0053-maximum-subarray) |
@@ -346,6 +347,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0005-longest-palindromic-substring](https://github.com/sameer-gandhi/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sameer-gandhi/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sameer-gandhi/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/sameer-gandhi/leetcode/tree/master/0118-pascals-triangle) |
@@ -402,6 +404,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sameer-gandhi/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sameer-gandhi/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/sameer-gandhi/leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0410-split-array-largest-sum) |
