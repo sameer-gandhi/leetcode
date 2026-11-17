@@ -4,21 +4,19 @@ public:
         if(s.empty()){
             return 0;
         }
-        int i=0;
-        int j=0;
+        int left=0;
+        int right=0;
         int mxlen=0;
-        int len=0;
-        unordered_map<char,int> mp;
-        while(i<=j && j<s.length()){
-            len++;
-            mp[s[j]]++;
-            while(mp[s[j]]>1){
-                len--;
-                mp[s[i]]--;
-                i++;
+        vector<int> hash(256,-1);
+        while(right<s.length()){
+            if(hash[s[right]]!=-1){
+                if(hash[s[right]]>=left){
+                    left=hash[s[right]]+1;
+                }
             }
-            mxlen=max(len,mxlen);
-            j++;
+            mxlen=max(mxlen,right-left+1);
+            hash[s[right]]=right;
+            right++;
         }
         return mxlen;
     }
