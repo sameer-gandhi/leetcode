@@ -101,6 +101,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0860-lemonade-change](https://github.com/sameer-gandhi/leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/sameer-gandhi/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/sameer-gandhi/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/sameer-gandhi/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sameer-gandhi/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -158,6 +159,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0350-intersection-of-two-arrays-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sameer-gandhi/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/sameer-gandhi/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/sameer-gandhi/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sameer-gandhi/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sameer-gandhi/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sameer-gandhi/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -436,6 +438,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sameer-gandhi/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/sameer-gandhi/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sameer-gandhi/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sameer-gandhi/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sameer-gandhi/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
