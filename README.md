@@ -105,6 +105,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0905-sort-array-by-parity](https://github.com/sameer-gandhi/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sameer-gandhi/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sameer-gandhi/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sameer-gandhi/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1267-count-servers-that-communicate](https://github.com/sameer-gandhi/leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -162,6 +163,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0451-sort-characters-by-frequency](https://github.com/sameer-gandhi/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/sameer-gandhi/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/sameer-gandhi/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sameer-gandhi/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sameer-gandhi/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sameer-gandhi/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -386,6 +388,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sameer-gandhi/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sameer-gandhi/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sameer-gandhi/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sameer-gandhi/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -444,6 +447,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0076-minimum-window-substring](https://github.com/sameer-gandhi/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/sameer-gandhi/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sameer-gandhi/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sameer-gandhi/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sameer-gandhi/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sameer-gandhi/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
