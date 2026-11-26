@@ -231,6 +231,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [1903-largest-odd-number-in-string](https://github.com/sameer-gandhi/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/sameer-gandhi/leetcode/tree/master/1922-count-good-numbers) |
 | [2063-vowels-of-all-substrings](https://github.com/sameer-gandhi/leetcode/tree/master/2063-vowels-of-all-substrings) |
+| [3360-stone-removal-game](https://github.com/sameer-gandhi/leetcode/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sameer-gandhi/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sameer-gandhi/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sameer-gandhi/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -383,6 +384,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0867-transpose-matrix](https://github.com/sameer-gandhi/leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sameer-gandhi/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sameer-gandhi/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/sameer-gandhi/leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/sameer-gandhi/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
 |  |
