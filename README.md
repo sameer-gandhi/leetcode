@@ -106,6 +106,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0912-sort-an-array](https://github.com/sameer-gandhi/leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/sameer-gandhi/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/sameer-gandhi/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sameer-gandhi/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sameer-gandhi/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -165,6 +166,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0560-subarray-sum-equals-k](https://github.com/sameer-gandhi/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/sameer-gandhi/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/sameer-gandhi/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sameer-gandhi/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sameer-gandhi/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sameer-gandhi/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -347,6 +349,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0169-majority-element](https://github.com/sameer-gandhi/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sameer-gandhi/leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sameer-gandhi/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/sameer-gandhi/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1267-count-servers-that-communicate](https://github.com/sameer-gandhi/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sameer-gandhi/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -452,6 +455,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | [0424-longest-repeating-character-replacement](https://github.com/sameer-gandhi/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sameer-gandhi/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sameer-gandhi/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/sameer-gandhi/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/sameer-gandhi/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sameer-gandhi/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sameer-gandhi/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
