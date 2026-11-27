@@ -536,6 +536,7 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 | ------- |
 | [0020-valid-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sameer-gandhi/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/sameer-gandhi/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sameer-gandhi/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/sameer-gandhi/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sameer-gandhi/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -672,4 +673,12 @@ This repository contains my LeetCode solutions implemented in **C++**. It serves
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sameer-gandhi/leetcode/tree/master/0912-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sameer-gandhi/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sameer-gandhi/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
